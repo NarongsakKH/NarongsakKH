@@ -8,7 +8,7 @@
 ##### -_this is picture of our project Helmet with Solar cell and LDR For blocking sunlight and i'm the guy wear the helmet._
 <img src='https://github.com/NarongsakKH/NarongsakKH/assets/118370471/08453d0f-553a-4f49-bf12-16d626327995'>
 
-##### -_and this is the second project smart farm._
+##### -_and this is the second project 'smart farm'._
 <img src='https://github.com/NarongsakKH/NarongsakKH/assets/118370471/c7f95d93-2a9f-4ffe-9624-0503287097ce' width = "800" Height="1000">
 
 
