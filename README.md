@@ -1,6 +1,7 @@
 # [THE PROFILE INFOMATION HERE]:
 ## -So please to meet you,my name is Narongsak and the last name is Khongkhlod and you can call me gan.
 ### -I'm study in rajamangala university of technology lanna and i was study faculty of engineering,Department of computer engineering.
+### -My Contract.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mitky13/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198086407828)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%94-96625a2a4/)
