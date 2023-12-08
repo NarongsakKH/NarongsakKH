@@ -5,7 +5,7 @@ The name is Narongsak and the last name is Khongkhlod and you can call me gan
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198086407828)
 
 <center>
-  this is my and friend project Helmet with LDR For blocking sunlight and i'm the guy wear the helmet
+  this is picture of our project Helmet with LDR For blocking sunlight and i'm the guy wear the helmet
 <img src='https://github.com/NarongsakKH/NarongsakKH/assets/118370471/08453d0f-553a-4f49-bf12-16d626327995'>
 </center>
 
