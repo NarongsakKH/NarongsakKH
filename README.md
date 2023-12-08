@@ -1,4 +1,4 @@
-## THE PRO FILE INFOMATION HERE
+## THE PROFILE INFOMATION HERE
 The name is Narongsak and the last name is Khongkhlod and you can call me gan
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/mitky13/)
