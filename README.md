@@ -8,4 +8,4 @@ The name is Narongsak and the last name is Khongkhlod and you can call me gan
 </center>
 
 <img src='https://i.kym-cdn.com/entries/icons/facebook/000/019/041/tumblr_my1j9fTt3u1s9gsijo1_400.jpg'>
-![Screenshot_20230221_022159](https://github.com/NarongsakKH/NarongsakKH/assets/118370471/08453d0f-553a-4f49-bf12-16d626327995)
+<img src='https://github.com/NarongsakKH/NarongsakKH/assets/118370471/08453d0f-553a-4f49-bf12-16d626327995'>
